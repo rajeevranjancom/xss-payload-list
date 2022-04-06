@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Clickjack test Page</title>
+</head>
+<body>
+<p>website is vulnerable to clickjacking!</p>
+<iframe src="https://opensea.io/" width="500" height="500">
+</iframe>
+</body>
+</html>
+
+// https://samy.pl/quickjack/quickjack.html
